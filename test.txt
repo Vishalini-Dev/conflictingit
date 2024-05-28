@@ -1,2 +1,2 @@
-name:kittu
+name:pattu
 place:India
