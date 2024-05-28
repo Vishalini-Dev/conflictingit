@@ -1,2 +1,2 @@
-name:Mottu
+name:pattu
 place:china
